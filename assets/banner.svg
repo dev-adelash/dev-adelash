@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340">
+  <rect width="1200" height="340" rx="18" fill="#f4f2e9"/>
+  <path d="M54 66h1092M54 288h1092" stroke="#d5d6c9"/>
+  <circle cx="61" cy="43" r="4" fill="#d94c2a"/>
+  <text x="77" y="48" font-family="monospace" font-size="13" letter-spacing="2" fill="#666b60">SOFTWARE / SYSTEMS / CRAFT</text>
+  <text x="52" y="156" font-family="Arial,sans-serif" font-size="76" letter-spacing="-4" fill="#242824" font-weight="600">Adel Ash<tspan fill="#d94c2a">.</tspan></text>
+  <text x="56" y="217" font-family="Arial,sans-serif" font-size="29" letter-spacing="-1" fill="#d94c2a">Software, thoughtfully built.</text>
+  <text x="56" y="316" font-family="monospace" font-size="12" letter-spacing="1" fill="#666b60">CLEAR CONTRACTS. USEFUL PRODUCTS. DEPENDABLE SYSTEMS.</text>
+  <g transform="translate(820 90) rotate(-9 130 90)">
+    <rect x="0" y="0" width="270" height="52" rx="5" fill="#d0df9c" stroke="#a8b795"/>
+    <rect x="12" y="57" width="270" height="52" rx="5" fill="#d9dfc9" stroke="#a8b795"/>
+    <rect x="24" y="114" width="270" height="52" rx="5" fill="#a2b298" stroke="#889a7c"/>
+    <g font-family="Arial,sans-serif" font-size="18" fill="#3b4936"><text x="21" y="33">Experience</text><text x="33" y="90">Service</text><text x="45" y="147">Delivery</text></g>
+    <g font-family="monospace" font-size="20" fill="#4b5d41"><text x="234" y="34">↗</text><text x="246" y="91">↗</text><text x="258" y="148">↗</text></g>
+  </g>
+</svg>
