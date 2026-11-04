@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://adelash.vercel.app">Portfolio</a> ·
-  <a href="mailto:adelash.work@gmail.com">Email</a> ·
+  <a href="mailto:tech.dev.workspace@gmail.com">Email</a> ·
   Indianapolis, IN
 </p>
 
